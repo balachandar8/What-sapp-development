@@ -6,6 +6,8 @@ WHATSAPP DEVELOPMENT CODE:
 3.CHATS BOX CODE 
 4.STSTUS VIEW CODE
 5.CALLS HISTORY CODE
+6.adding the video call feature 
+7.Adding the audio call feature
 
 
 
